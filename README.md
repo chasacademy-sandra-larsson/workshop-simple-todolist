@@ -6,7 +6,7 @@ Er uppgift är att göra en enklare Todolist
 
 Börja med en tom lista/array, ```todos: []```
 
-![Uppgiftsbeskrivning](https://github.com/chasacademy-sandra-larsson/workshop-simple-todolist)
+![Uppgiftsbeskrivning](https://github.com/chasacademy-sandra-larsson/workshop-simple-todolist/blob/main/simple_todolist.png)
 
 
 Studera bilden och diskutera i teamet:
