@@ -9,9 +9,10 @@ Börja med en tom lista/array, ```todos: []```
 ![Uppgiftsbeskrivning](https://github.com/chasacademy-sandra-larsson/workshop-simple-todolist/blob/main/simple_todolist.png)
 
 
-För att bryta ner uppgiften i mindre delar rekommenderar jag dessa delsteg. Känn er nöjda även om ni klarar första! 🎉🎉🎉
+För att bryta ner uppgiften i mindre delar rekommenderar jag dessa delsteg. Känn er nöjda om ni klarar första! 🎉🎉🎉
 
-Skapa funktionalitet för
+Skapa funktionalitet för:
+
 1. **Lägg till en todo** i arrayen med användarens input, ett id som inkrementeras och en completed satt till false från början. Synka UI så att den visar hela listan utefter den uppdaterade arrayen!
 2. **Toggle completed**. Om man klickar på texten ska motsvarande objekt i arrayen togglas true/false. Synka UI så att texten visar överstruken om completed är true
 3. **Ta bort en todo** när användaren klickar en <button> i <li>. Synka UI så att den visar modifierade listan utefter den uppdaterade arrayen!
