@@ -6,6 +6,8 @@ Er uppgift är att göra en enklare Todolist
 
 Börja med en tom lista/array, ```todos: []```
 
+![](https://github.com/chasacademy-sandra-larsson/workshop-simple-todolist)
+
 Studera bilden och diskutera i teamet:
 
 * Hur uppdaterar ni arrayen när man lägger till ny todo?
